@@ -1,0 +1,948 @@
+{
+    "S_HELLO ": {
+        "sec": "6",
+        "fileName": "Hello 1.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_HELLO "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_HELLO "
+        }
+    },
+    "S_INTRO ": {
+        "sec": "6",
+        "fileName": "Intro 1.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_INTRO "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "whom_calling ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "greetings ": {
+            "fileName": "okay 1.wav",
+            "next_state": "S_PITCH "
+        },
+        "where_are_you_calling_from ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "GreetBack ": {
+            "fileName": "I am Doing Great.wav",
+            "next_state": "S_PITCH "
+        },
+        "calling_about ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "sorry_greeting": {
+            "fileName": "SO SORRY TO HEAR THAT.wav",
+            "next_state": "S_PITCH "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        }
+    },
+    "S_PITCH ": {
+        "sec": "6",
+        "fileName": "Pitch & Reason of Call.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "not_decision_maker ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "calling_about ": {
+            "fileName": "",
+            "next_state": "S_WHY "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_PITCH "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "where_are_you_calling_from ": {
+            "fileName": "",
+            "next_state": "S_Location "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        }
+    },
+    "S_TRANSFER ": {
+        "sec": "5",
+        "fileName": "Transfer 1.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        }
+    },
+    "S_BUSY ": {
+        "sec": "3",
+        "fileName": "Busy.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_PREV_STATE ": {
+        "sec": "5",
+        "fileName": "",
+        "reb_state": true,
+        "qq_state": false
+    },
+    "S_ARE_YOU_THERE ": {
+        "sec": "3",
+        "fileName": "are_you_there.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "disp_N "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        }
+    },
+    "S_NI": {
+        "sec": "5",
+        "fileName": "Not Interested.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_ALREADY": {
+        "sec": "5",
+        "fileName": "ALREADY HAVE INSURNACE.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_WHY": {
+        "sec": "5",
+        "fileName": "Pitch & Reason of Call.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_GET_INFO": {
+        "sec": "5",
+        "fileName": "WHY DO YOU NEED THIS INFORMATION.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "not_decision_maker ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        },
+        "where_are_you_calling_from ": {
+            "fileName": "",
+            "next_state": "S_Location "
+        }
+    },
+    "S_EMAIL": {
+        "sec": "5",
+        "fileName": "email.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "not_decision_maker ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "ask_prices ": {
+            "fileName": "",
+            "next_state": "S_PRICE_QUESTIONS "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_ARE_YOU_BOT": {
+        "sec": "5",
+        "fileName": "I am not a Robot.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        }
+    },
+    "S_Location": {
+        "sec": "3",
+        "fileName": "where are you located.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_AGE_QUESTION ": {
+        "sec": "6",
+        "fileName": "Age.wav",
+        "reb_state": false,
+        "qq_state": true,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNQ ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "calling_about ": {
+            "fileName": "",
+            "next_state": "S_WHY_INFO "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "where_are_you_calling_from ": {
+            "fileName": "",
+            "next_state": "S_Location "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        }
+    },
+    "S_WHY_INFO": {
+        "sec": "3",
+        "fileName": "WHY DO YOU NEED THIS INFORMATION.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "transfer_request ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER_REQ "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    },
+    "S_TRANSFER_REQ": {
+        "sec": "3",
+        "fileName": "transfer_req.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "can_you_email ": {
+            "fileName": "",
+            "next_state": "S_EMAIL "
+        },
+        "are_you_bot ": {
+            "fileName": "",
+            "next_state": "S_ARE_YOU_BOT "
+        }
+    }
+}

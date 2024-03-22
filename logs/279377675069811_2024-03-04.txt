@@ -1,0 +1,668 @@
+            ---- BOT JSON LOADED ----             
+---------- Starting call # 0 ----------
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----                   ---- BOT JSON LOADED ----             
+---------- Starting call # 0 ----------
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+          ---- [+] Partial : the it ----          
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0061915839978610165 ----
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+      ---- [+] Partial : the wizard of ----       
+          ---- [+] Partial : the it ----          
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0061915839978610165 ----
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+         ---- [+] Partial : good day ----         
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+      ---- [+] Partial : good day i'll ----       
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+         ---- [+] Partial : goodale ----          
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+   ---- [+] Partial : goodale hundred and ----    
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+ ---- [+] Partial : goodale hundred and now ----  
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.003127415999188088 ----
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+---- [+] Partial : goodale hundred and know how are you doing ----
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.003127415999188088 ----
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : football ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+         ---- [+] Partial : fuck off ----         
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.003464208002696978 ----
+         ----- next state: disp_DNC ----          
+Current Bot Disposition: DNC
+---------- Starting call # 1 ----------
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        

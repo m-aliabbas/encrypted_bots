@@ -1,0 +1,22 @@
+sound_device:
+  input: 6 # your input device / vb out
+  output: 8 #your output device/ vb in
+no_response_time: 3.0 # after how much sec are_you_there
+pause_duration: 0.8 # pause / detect end of speech
+block_size: 8000 # leave as it is
+running_mode : 'PRO' # if you have to run try.py make it "TRY" else "PRO"
+chrome_driver: 'chrome_driver/chromedriver.exe'
+server_address: #leave the below things as it is
+  ip: "113.203.209.145"
+  port: "9001"
+  end_point: "transcribe"
+  protocol: "ws"
+dialer_details: # dialer thingss
+  company_name: 'Prime BPO'
+  url: 'https://lead3.dialerhosting.com' #you can change url if needed
+  user_id: '4001'
+  password: 'pbpo123'
+  campaign_num: '2' # campaign xpath num in [2]
+  transfer: 7 # how to transfer
+  pages: ["2","3","4"] #pages of dialer
+  preset: "D5" # like D5 etc

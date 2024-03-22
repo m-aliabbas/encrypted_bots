@@ -1,0 +1,2094 @@
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0038894159988558386 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+     ---- [+] Partial : evelyn i'm doing ----     
+     ---- [+] Partial : evelyn i'm doing ----     
+     ---- [+] Partial : evelyn i'm doing ----     
+  ---- [+] Partial : evelyn i'm doing good ----   
+  ---- [+] Partial : evelyn i'm doing good ----   
+---- [+] Partial : evelyn i'm doing good to have ----
+---- [+] Partial : evelyn i'm doing good to have ----
+---- [+] Partial : evelyn i'm doing good how about ----
+---- [+] Partial : evelyn i'm doing good how about ----
+---- [+] Partial : evelyn i'm doing good how are you ----
+---- [+] Partial : evelyn i'm doing good how are you ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004799584003194468 ----
+---- User Spoke:  evelyn, i am doing good. how are you doing? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----                         ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0038894159988558386 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+     ---- [+] Partial : evelyn i'm doing ----     
+     ---- [+] Partial : evelyn i'm doing ----     
+     ---- [+] Partial : evelyn i'm doing ----     
+  ---- [+] Partial : evelyn i'm doing good ----   
+  ---- [+] Partial : evelyn i'm doing good ----   
+---- [+] Partial : evelyn i'm doing good to have ----
+---- [+] Partial : evelyn i'm doing good to have ----
+---- [+] Partial : evelyn i'm doing good how about ----
+---- [+] Partial : evelyn i'm doing good how about ----
+---- [+] Partial : evelyn i'm doing good how are you ----
+---- [+] Partial : evelyn i'm doing good how are you ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+---- [+] Partial : evelyn i'm doing good how are you doing ----
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004799584003194468 ----
+---- User Spoke:  evelyn, i am doing good. how are you doing? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007459667001967318 ----
+           ---- User Spoke:  okay. ----           
+        ---- AI Detect : affirmation ----         
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : however ----          
+         ---- [+] Partial : however ----          
+       ---- [+] Partial : how are you ----        
+       ---- [+] Partial : how are you ----        
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008541708997654496 ----
+   ---- [-] Pause Dector Did not got audio ----   
+ ---- User Spoke:  hello, how are you doing? ---- 
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0089268740011903 ----
+   ---- [-] Pause Dector Did not got audio ----   
+     ---- User Spoke:  i am doing good. ----      
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : just ----           
+           ---- [+] Partial : just ----           
+         ---- [+] Partial : just so ----          
+         ---- [+] Partial : just so ----          
+         ---- [+] Partial : just are ----         
+         ---- [+] Partial : just are ----         
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008143373997882009 ----
+   ---- [-] Pause Dector Did not got audio ----   
+    ---- User Spoke:  jess, how are you? ----     
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : earlier ----          
+         ---- [+] Partial : earlier ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+    ---- [+] Partial : evelyn i'm having ----     
+    ---- [+] Partial : evelyn i'm having ----     
+   ---- [+] Partial : evelyn i'm having a ----    
+   ---- [+] Partial : evelyn i'm having a ----    
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+---- [+] Partial : evelyn i'm having a good day ----
+---- [+] Partial : evelyn i'm having a good day ----
+---- [+] Partial : evelyn i'm having a good the ----
+---- [+] Partial : evelyn i'm having a good the ----
+---- [+] Partial : evelyn i'm having a good the ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008720499998162268 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  evelyn, i am having a good day. ----
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----               ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : just ----           
+           ---- [+] Partial : just ----           
+         ---- [+] Partial : just so ----          
+         ---- [+] Partial : just so ----          
+         ---- [+] Partial : just are ----         
+         ---- [+] Partial : just are ----         
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+       ---- [+] Partial : just are you ----       
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008143373997882009 ----
+   ---- [-] Pause Dector Did not got audio ----   
+    ---- User Spoke:  jess, how are you? ----     
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : earlier ----          
+         ---- [+] Partial : earlier ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+        ---- [+] Partial : evelyn i'm ----        
+        ---- [+] Partial : evelyn i'm ----        
+    ---- [+] Partial : evelyn i'm having ----     
+    ---- [+] Partial : evelyn i'm having ----     
+   ---- [+] Partial : evelyn i'm having a ----    
+   ---- [+] Partial : evelyn i'm having a ----    
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+ ---- [+] Partial : evelyn i'm having a good ---- 
+---- [+] Partial : evelyn i'm having a good day ----
+---- [+] Partial : evelyn i'm having a good day ----
+---- [+] Partial : evelyn i'm having a good the ----
+---- [+] Partial : evelyn i'm having a good the ----
+---- [+] Partial : evelyn i'm having a good the ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008720499998162268 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  evelyn, i am having a good day. ----
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+  ---- [+] Partial : okay there to serve in ----  
+  ---- [+] Partial : okay there to serve in ----  
+    ---- [+] Partial : okay there will be ----    
+    ---- [+] Partial : okay there will be ----    
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+---- [+] Partial : okay there will be great and i ----
+---- [+] Partial : okay there will be great and i'm ----
+---- [+] Partial : okay there will be great and i'm ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very open ----
+---- [+] Partial : okay there will be great and i'm very open ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very okay with ----
+---- [+] Partial : okay there will be great and i'm very okay with ----
+---- [+] Partial : okay there will be great and i'm very okay with us ----
+---- [+] Partial : okay there will be great and i'm very okay with us ----
+---- [+] Partial : okay there will be great and i'm very okay with you would think ----
+---- [+] Partial : okay there will be great and i'm very okay with you would think ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+        ---- [+] Partial : okay there ----        
+  ---- [+] Partial : okay there to serve in ----  
+  ---- [+] Partial : okay there to serve in ----  
+    ---- [+] Partial : okay there will be ----    
+    ---- [+] Partial : okay there will be ----    
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+ ---- [+] Partial : okay there will be great ---- 
+---- [+] Partial : okay there will be great and i ----
+---- [+] Partial : okay there will be great and i'm ----
+---- [+] Partial : okay there will be great and i'm ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very open ----
+---- [+] Partial : okay there will be great and i'm very open ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very ----
+---- [+] Partial : okay there will be great and i'm very okay with ----
+---- [+] Partial : okay there will be great and i'm very okay with ----
+---- [+] Partial : okay there will be great and i'm very okay with us ----
+---- [+] Partial : okay there will be great and i'm very okay with us ----
+---- [+] Partial : okay there will be great and i'm very okay with you would think ----
+---- [+] Partial : okay there will be great and i'm very okay with you would think ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+---- [+] Partial : okay there will be great and i'm very okay with you were thinking go ahead ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008653042001242284 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  okay, that will be great and i'm very okay with your thinking. go ahead. ----
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+      ---- [+] Partial : the shares our ----      
+      ---- [+] Partial : the shares our ----      
+    ---- [+] Partial : the share so under ----    
+    ---- [+] Partial : the share so under ----    
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007886791001510574 ----
+   ---- [-] Pause Dector Did not got audio ----   
+ ---- User Spoke:  jess, how are you doing? ----  
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+        ---- [+] Partial : i'm having ----        
+        ---- [+] Partial : i'm having ----        
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00400291599726188 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  i am having a good day. how are you? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----                  ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+           ---- [+] Partial : the ----            
+      ---- [+] Partial : the shares our ----      
+      ---- [+] Partial : the shares our ----      
+    ---- [+] Partial : the share so under ----    
+    ---- [+] Partial : the share so under ----    
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+---- [+] Partial : the shares or what you're doing ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007886791001510574 ----
+   ---- [-] Pause Dector Did not got audio ----   
+ ---- User Spoke:  jess, how are you doing? ----  
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+        ---- [+] Partial : i'm having ----        
+        ---- [+] Partial : i'm having ----        
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+    ---- [+] Partial : i'm having a good ----     
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+   ---- [+] Partial : i'm having a good in ----   
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+ ---- [+] Partial : i'm having a good in our ---- 
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+---- [+] Partial : i'm having a good in our you ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00400291599726188 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  i am having a good day. how are you? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+         ---- [+] Partial : i'm busy ----         
+     ---- [+] Partial : i'm busy please ----      
+     ---- [+] Partial : i'm busy please ----      
+     ---- [+] Partial : i'm busy please ----      
+  ---- [+] Partial : i'm busy please don't ----   
+  ---- [+] Partial : i'm busy please don't ----   
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+---- [+] Partial : i'm busy please don't call me ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006913542001711903 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  i'm busy. please don't call me. ----
+            ---- AI Detect : DNC ----             
+         ----- next state: disp_DNC ----          
+Current Bot Disposition: DNC
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+        ---- [+] Partial : oh i know ----         
+        ---- [+] Partial : oh i know ----         
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+         ---- [+] Partial : are you ----          
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007446708998031681 ----
+   ---- [-] Pause Dector Did not got audio ----   
+    ---- User Spoke:  hello? how are you? ----    
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+     ---- [+] Partial : then eventually ----      
+     ---- [+] Partial : then eventually ----      
+         ---- [+] Partial : then and ----         
+         ---- [+] Partial : then and ----         
+      ---- [+] Partial : then in olive ----       
+      ---- [+] Partial : then in olive ----       
+  ---- [+] Partial : then in our liquor the ----  
+  ---- [+] Partial : then in our liquor the ----  
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008304874998430023 ----
+   ---- [-] Pause Dector Did not got audio ----   
+   ---- User Spoke:  zen ivalikhat, hello ----    
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006990832996962126 ----
+   ---- [-] Pause Dector Did not got audio ----   
+     ---- User Spoke:  i am doing okay. ----      
+        ---- AI Detect : affirmation ----         
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----                         ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+     ---- [+] Partial : then eventually ----      
+     ---- [+] Partial : then eventually ----      
+         ---- [+] Partial : then and ----         
+         ---- [+] Partial : then and ----         
+      ---- [+] Partial : then in olive ----       
+      ---- [+] Partial : then in olive ----       
+  ---- [+] Partial : then in our liquor the ----  
+  ---- [+] Partial : then in our liquor the ----  
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+---- [+] Partial : then in our liquor the hello ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008304874998430023 ----
+   ---- [-] Pause Dector Did not got audio ----   
+   ---- User Spoke:  zen ivalikhat, hello ----    
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006990832996962126 ----
+   ---- [-] Pause Dector Did not got audio ----   
+     ---- User Spoke:  i am doing okay. ----      
+        ---- AI Detect : affirmation ----         
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+    ---- [+] Partial : okay they can just ----    
+    ---- [+] Partial : okay they can just ----    
+   ---- [+] Partial : okay the ganges her ----    
+   ---- [+] Partial : okay the ganges her ----    
+---- [+] Partial : okay they can just send me a ----
+---- [+] Partial : okay they can just send me a ----
+---- [+] Partial : okay they can just hit me in ----
+---- [+] Partial : okay they can just hit me in ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008382792002521455 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  okay, can you send me an email? ----
+       ---- AI Detect : can_you_email ----        
+         ----- next state: S_EMAIL ----           
+---- Current State: S_PITCH, Next Stat : S_EMAIL ----
+        ----- Current State: S_EMAIL -----        
+           ---- Playing email.wav ----            
+            ---- listening for 5 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : please ----          
+          ---- [+] Partial : please ----          
+      ---- [+] Partial : please connect ----      
+      ---- [+] Partial : please connect ----      
+    ---- [+] Partial : please connect me ----     
+    ---- [+] Partial : please connect me ----     
+  ---- [+] Partial : please connect me with ----  
+  ---- [+] Partial : please connect me with ----  
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.005851166999491397 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  please connect me with your supervisor ----
+      ---- AI Detect : transfer_request ----      
+      ----- next state: S_TRANSFER_REQ ----       
+---- Current State: S_EMAIL, Next Stat : S_TRANSFER_REQ ----
+    ----- Current State: S_TRANSFER_REQ -----     
+        ---- Playing transfer_req.wav ----        
+            ---- listening for 3 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+           ---- [+] Partial : okay ----           
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+         ---- [+] Partial : okay the ----         
+    ---- [+] Partial : okay they can just ----    
+    ---- [+] Partial : okay they can just ----    
+   ---- [+] Partial : okay the ganges her ----    
+   ---- [+] Partial : okay the ganges her ----    
+---- [+] Partial : okay they can just send me a ----
+---- [+] Partial : okay they can just send me a ----
+---- [+] Partial : okay they can just hit me in ----
+---- [+] Partial : okay they can just hit me in ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+---- [+] Partial : okay they can just send me an email ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008382792002521455 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  okay, can you send me an email? ----
+       ---- AI Detect : can_you_email ----        
+         ----- next state: S_EMAIL ----           
+---- Current State: S_PITCH, Next Stat : S_EMAIL ----
+        ----- Current State: S_EMAIL -----        
+           ---- Playing email.wav ----            
+            ---- listening for 5 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : please ----          
+          ---- [+] Partial : please ----          
+      ---- [+] Partial : please connect ----      
+      ---- [+] Partial : please connect ----      
+    ---- [+] Partial : please connect me ----     
+    ---- [+] Partial : please connect me ----     
+  ---- [+] Partial : please connect me with ----  
+  ---- [+] Partial : please connect me with ----  
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+---- [+] Partial : please connect me with your supervisor ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.005851166999491397 ----
+   ---- [-] Pause Dector Did not got audio ----   
+---- User Spoke:  please connect me with your supervisor ----
+      ---- AI Detect : transfer_request ----      
+      ----- next state: S_TRANSFER_REQ ----       
+---- Current State: S_EMAIL, Next Stat : S_TRANSFER_REQ ----
+    ----- Current State: S_TRANSFER_REQ -----     
+        ---- Playing transfer_req.wav ----        
+            ---- listening for 3 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : pocket ----          
+          ---- [+] Partial : pocket ----          
+       ---- [+] Partial : pocket clip ----        
+       ---- [+] Partial : pocket clip ----        
+      ---- [+] Partial : pocket please ----       
+      ---- [+] Partial : pocket please ----       
+     ---- [+] Partial : pocket please go ----     
+     ---- [+] Partial : pocket please go ----     
+      ---- [+] Partial : pocket please ----       
+      ---- [+] Partial : pocket please ----       
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.009271584000089206 ----
+   ---- [-] Pause Dector Did not got audio ----   
+  ---- User Spoke:  okay, please go ahead. ----   
+        ---- AI Detect : affirmation ----         
+       ----- next state: S_PREV_STATE ----        
+---- Current State: S_TRANSFER_REQ, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+            ---- Playing Age.wav ----             
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+         ---- [+] Partial : i'm just ----         
+         ---- [+] Partial : i'm just ----         
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+     ---- [+] Partial : i'm just it for ----      
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00807337500009453 ----
+   ---- [-] Pause Dector Did not got audio ----   
+       ---- User Spoke:  i'm just 45. ----        
+        ---- AI Detect : affirmation ----         
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_AGE_QUESTION, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+         ---- Playing Transfer 1.wav ----         
+            ---- listening for 5 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : pocket ----          
+          ---- [+] Partial : pocket ----          
+       ---- [+] Partial : pocket clip ----        
+       ---- [+] Partial : pocket clip ----        
+      ---- [+] Partial : pocket please ----       
+      ---- [+] Partial : pocket please ----       
+     ---- [+] Partial : pocket please go ----     
+     ---- [+] Partial : pocket please go ----     
+      ---- [+] Partial : pocket please ----       
+      ---- [+] Partial : pocket please ----       
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+    ---- [+] Partial : pocket please word ----    
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.009271584000089206 ----
+   ---- [-] Pause Dector Did not got audio ----   
+  ---- User Spoke:  okay, please go ahead. ----   
+        ---- AI Detect : affirmation ----         
+       ----- next state: S_PREV_STATE ----        
+---- Current State: S_TRANSFER_REQ, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+            ---- Playing Age.wav ----             
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+           ---- [+] Partial : i'm ----            
+         ---- [+] Partial : i'm just ----         
+         ---- [+] Partial : i'm just ----         
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+        ---- [+] Partial : i'm just a ----        
+     ---- [+] Partial : i'm just it for ----      
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+  ---- [+] Partial : i'm just a forty five ----   
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00807337500009453 ----
+   ---- [-] Pause Dector Did not got audio ----   
+       ---- User Spoke:  i'm just 45. ----        
+        ---- AI Detect : affirmation ----         
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_AGE_QUESTION, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+         ---- Playing Transfer 1.wav ----         
+            ---- listening for 5 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : who gets ----         
+         ---- [+] Partial : who gets ----         
+           ---- [+] Partial : okay ----           
+     ---- [+] Partial : okay thanks i'm ----      
+     ---- [+] Partial : okay thanks i'm ----      
+     ---- [+] Partial : okay thanks i'm ----      
+     ---- [+] Partial : okay thanks i'm ----      
+---- [+] Partial : okay thanks i'm extremely ---- 
+---- [+] Partial : okay thanks i'm extremely ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+ ---- [+] Partial : okay thanks i'm a string ---- 
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008380208004382439 ----
+   ---- [-] Pause Dector Did not got audio ----   
+ ---- User Spoke:  hook it tanks and string. ---- 
+         ---- AI Detect : greetings ----          
+        ----- next state: disp_XFER ----          
+Current Bot Disposition: XFER
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+       ---- [+] Partial : this who is ----        
+       ---- [+] Partial : this who is ----        
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+     ---- [+] Partial : this who is this ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004922083997371374 ----
+   ---- [-] Pause Dector Did not got audio ----   
+    ---- User Spoke:  jess, who is this? ----     
+        ---- AI Detect : who_are_you ----         
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+        ---- [+] Partial : i'm doing ----         
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+     ---- [+] Partial : i'm doing great ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0047779579981579445 ----
+   ---- [-] Pause Dector Did not got audio ----   
+     ---- User Spoke:  i am doing great. ----     
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008344417001353577 ----
+   ---- [-] Pause Dector Did not got audio ----   
+         ---- User Spoke:  just with ----         
+        ---- AI Detect : affirmation ----         
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : who is ----          
+          ---- [+] Partial : who is ----          
+          ---- [+] Partial : who is ----          
+          ---- [+] Partial : who is ----          
+       ---- [+] Partial : who is just ----        
+      ---- [+] Partial : who is adjusts ----      
+      ---- [+] Partial : who is adjusts ----      
+      ---- [+] Partial : who is adjusts ----      
+      ---- [+] Partial : who is adjusts ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007340625001234002 ----
+   ---- [-] Pause Dector Did not got audio ----   
+           ---- User Spoke:  arjes ----           
+            ---- AI Detect : None ----            
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+---- [+] Partial : hello or what you're doing ----
+---- [+] Partial : hello or what you're doing ----
+---- [+] Partial : hello or what you're doing ----
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007447543001035228 ----
+   ---- [-] Pause Dector Did not got audio ----   
+ ---- User Spoke:  hello, how are you doing? ---- 
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006946958998014452 ----
+   ---- [-] Pause Dector Did not got audio ----   
+   ---- User Spoke:  i am doing good, but ----    
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Final No Resp
+          ---- [+] Partial : hello ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00923766699997941 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007745708000584273 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008556207998481113 ----
+      ---- User Spoke:  i'm doing good. ----      
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008767499995883554 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Final No Resp
+          ---- [+] Partial : hello ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008227998998336261 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007893583002442028 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Final No Resp 2.0480308532714844
+          ---- [+] Partial : hello ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00847316699946532 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Final No Resp 2.0482020378112793 2.0
+          ---- [+] Partial : hello ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008834165997541277 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+            ---- [+] Partial : ah ----            
+            ---- [+] Partial : ah ----            
+         ---- [+] Partial : ah hello ----         
+With Final No Resp 2.5605907440185547 2.0
+         ---- [+] Partial : ah hello ----         
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008460834000288742 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+No Response Time 5
+             ---- [+] Partial :  ----             
+No Response Time 5
+         ---- [+] Partial : the law ----          
+No Response Time 5
+         ---- [+] Partial : the law ----          
+No Response Time 5
+             ---- [+] Partial :  ----             
+No Response Time 5
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -7.450100019923411e-05 ----
+       ---- User Spoke:  hello. hello. ----       
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+     ---- [+] Partial : oh are you doing ----     
+     ---- [+] Partial : oh are you doing ----     
+     ---- [+] Partial : oh are you doing ----     
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00878079200265347 ----
+ ---- User Spoke:  hello, how are you doing? ---- 
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : i'm ----            
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+      ---- [+] Partial : i'm doing good ----      
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : and it ----          
+      ---- [+] Partial : and it's fine ----       
+      ---- [+] Partial : and it's fine ----       
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007701665999775287 ----
+---- User Spoke:  i am doing good and it is fine. ----
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : how are ----          
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+       ---- [+] Max duration triggered ----       
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007819375005055917 ----
+ ---- User Spoke:  hello. how are you doing? ---- 
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+         ---- [+] Partial : however ----          
+    ---- [+] Partial : how are you doing ----     
+    ---- [+] Partial : how are you doing ----     
+With Final No Resp 5.035023212432861 5
+    ---- [+] Partial : how are you doing ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008087374000751879 ----
+ ---- User Spoke:  hello, how are you doing? ---- 
+         ---- AI Detect : GreetBack ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+          ---- [+] Partial : evelyn ----          
+    ---- [+] Partial : evelyn i am doing ----     
+  ---- [+] Partial : evelyn i'm doing great ----  
+  ---- [+] Partial : evelyn i'm doing great ----  
+  ---- [+] Partial : evelyn i'm doing great ----  
+           ---- [+] Partial : but ----            
+         ---- [+] Partial : but i am ----         
+   ---- [+] Partial : but i am little busy ----   
+   ---- [+] Partial : but i am little busy ----   
+With Final No Resp 6.5715460777282715 5
+   ---- [+] Partial : but i am little busy ----   
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008558582998375641 ----
+---- User Spoke:  evelyn, i am doing great, but i am little busy. ----
+            ---- AI Detect : BUSY ----            
+          ----- next state: S_BUSY ----           
+---- Current State: S_INTRO, Next Stat : S_BUSY ----
+        ----- Current State: S_BUSY -----         
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : i just ----          
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+           ---- [+] Partial : this ----           
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00867508299779729 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+       ---- [+] Partial : oh who is it ----       
+       ---- [+] Partial : oh who is it ----       
+       ---- [+] Partial : oh who is it ----       
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+           ---- [+] Partial : the ----            
+         ---- [+] Partial : the know ----         
+With Final No Resp 6.058565139770508 5
+         ---- [+] Partial : the know ----         
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00855841600423446 ----
+     ---- User Spoke:  who is it? hello? ----     
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+With Final No Resp 5.034978151321411 5
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00809129099798156 ----
+            ---- User Spoke:  so. ----            
+            ---- AI Detect : None ----            
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008464540998829762 ----
+       ---- Playing are_you_there.wav ----        
+         ----- next state: S_INTRO ----           
+---- Current State: S_INTRO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+With Partial No respo
+             ---- [+] Partial :  ----             
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00768258300377056 ----
+           ---- User Did Not Speak ----           
+          ----- next state: disp_N ----           
+Current Bot Disposition: ('N', 'S_INTRO')
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : arjun ----           
+    ---- [+] Partial : are you listening ----     
+    ---- [+] Partial : are you listening ----     
+With Final No Resp 5.546784162521362 5
+    ---- [+] Partial : are you listening ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008862998998665716 ----
+ ---- User Spoke:  hello, are you listening? ---- 
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+             ---- [+] Partial :  ----             
+       ---- [+] Partial : how are you ----        
+    ---- [+] Partial : how are you doing ----     
+With Final No Resp 5.035107135772705 5
+    ---- [+] Partial : how are you doing ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008684334003191907 ----
+---- User Spoke:  i'm doing okay. how are you doing? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+      ---- [+] Partial : ah xor talking ----      
+   ---- [+] Partial : ah xor talking to an ----   
+---- [+] Partial : ah xor talking to an answering machine ----
+---- [+] Partial : ah xor talking to an answering machine ----
+---- [+] Partial : ah xor talking to an answering machine and ----
+---- [+] Partial : ah xor talking to an answering machine and do ----
+---- [+] Partial : ah xor talking to an answering machine and do we are ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are regarded ----{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_time': 0.5, 'maximum_noresponse_duration': 2.0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : hello ----           
+          ---- [+] Partial : hello ----           
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+          ---- [+] Partial : arjun ----           
+    ---- [+] Partial : are you listening ----     
+    ---- [+] Partial : are you listening ----     
+With Final No Resp 5.546784162521362 5
+    ---- [+] Partial : are you listening ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008862998998665716 ----
+ ---- User Spoke:  hello, are you listening? ---- 
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+        ---- [+] Partial : i'm doing ----         
+      ---- [+] Partial : i'm doing okay ----      
+      ---- [+] Partial : i'm doing okay ----      
+             ---- [+] Partial :  ----             
+       ---- [+] Partial : how are you ----        
+    ---- [+] Partial : how are you doing ----     
+With Final No Resp 5.035107135772705 5
+    ---- [+] Partial : how are you doing ----     
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008684334003191907 ----
+---- User Spoke:  i'm doing okay. how are you doing? ----
+         ---- AI Detect : GreetBack ----          
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+             ---- [+] Partial :  ----             
+      ---- [+] Partial : ah xor talking ----      
+   ---- [+] Partial : ah xor talking to an ----   
+---- [+] Partial : ah xor talking to an answering machine ----
+---- [+] Partial : ah xor talking to an answering machine ----
+---- [+] Partial : ah xor talking to an answering machine and ----
+---- [+] Partial : ah xor talking to an answering machine and do ----
+---- [+] Partial : ah xor talking to an answering machine and do we are ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are regarded ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are recordings were ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are recordings were message ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are recordings were message ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are recordings were message ----
+---- [+] Partial : ah xor talking to an answering machine and do we are continuously listening and we are recordings were message please urge ----
+       ---- [+] Max duration triggered ----       
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+An error occurred a bytes-like object is required, not 'str'
+---- [+] Time Taken by Server 1.7583002772880718e-05 ----
+---- User Spoke: ah xor talking to an answering machine and do we are continuously listening and we are recordings were message please urge ----
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
