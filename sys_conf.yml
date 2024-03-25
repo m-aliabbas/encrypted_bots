@@ -1,12 +1,13 @@
 sound_device:
-  input: 6 # your input device / vb out
-  output: 8 #your output device/ vb in
-no_response_time: 3.0 # after how much sec are_you_there
-pause_duration: 0.8 # pause / detect end of speech
-block_size: 8000 # leave as it is
+  input: 40 # your input device / vb out
+  output: 41 #your output device/ vb in
 running_mode : 'PRO' # if you have to run try.py make it "TRY" else "PRO"
 chrome_driver: 'chrome_driver/chromedriver.exe'
-server_address: #leave the below things as it is
+no_response_time: 3.0
+pause_duration: 0.8
+block_size: 8000
+running_mode : 'TRY'
+server_address:
   ip: "113.203.209.145"
   port: "9001"
   end_point: "transcribe"
