@@ -1754,3 +1754,189 @@ Current Bot Disposition: A
       ---- Refreshing Server Connection ----      
         ----- Current State: S_HELLO -----        
           ---- Playing Hello 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+Its paused making it active
+
+ call started 
+ Phone number : Incoming: (832)244-8511 UID: V3261323240014082263  
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.0004135000053793192 ----
+         ---- User Spoke:  you know. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.004022899782285094 ----
+         ---- User Spoke:  you know. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0002834000624716282 ----
+           ---- User Spoke: right ----            
+CHECKING OK KEYWORDS
+        ---- AI Detect : affirmation ----         {'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://113.203.209.145:9001/transcribe'}
+            ---- BOT JSON LOADED ----             
+Its paused making it active
+
+ call started 
+ Phone number : Incoming: (832)244-8511 UID: V3261323240014082263  
+      ---- Refreshing Server Connection ----      
+        ----- Current State: S_HELLO -----        
+          ---- Playing Hello 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.0004135000053793192 ----
+         ---- User Spoke:  you know. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.004022899782285094 ----
+         ---- User Spoke:  you know. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0002834000624716282 ----
+           ---- User Spoke: right ----            
+CHECKING OK KEYWORDS
+        ---- AI Detect : affirmation ----         
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+            ---- Playing Age.wav ----             
+            ---- listening for 6 ----             
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+             ---- [+] Listening ----              
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0001167000737041235 ----
+---- User Spoke:  stop calling, stop calling. ----
+            ---- AI Detect : DNC ----             
+         ----- next state: disp_DNC ----          
+Disposition = DNC with slowing 2 sec
+call ended!!!
+Its paused making it active
