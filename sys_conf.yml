@@ -1,6 +1,7 @@
 sound_device:
   input: 2 # your input device / vb out
   output: 5 #your output device/ vb in
+version: 2.2
 running_mode : 'PRO' # if you have to run try.py make it "TRY" else "PRO"
 chrome_driver: 'chrome_driver/chromedriver.exe'
 no_response_time: 3.0
