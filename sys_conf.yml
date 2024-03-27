@@ -1,13 +1,13 @@
 sound_device:
   input: 2 # your input device / vb out
   output: 5 #your output device/ vb in
-version: 2.3
-dated: '26/03/2024 @ 10:19 PM'
+version: 2.4
+dated: '27/03/2024 @ 7:32 PM'
 running_mode : 'PRO' # if you have to run try.py make it "TRY" else "PRO"
 chrome_driver: 'chrome_driver/chromedriver.exe'
 no_response_time: 3.0
-pause_duration: 0.8
-block_size: 4096
+pause_duration: 0.5
+block_size: 8000
 server_address:
   ip: "113.203.209.145"
   port: "9001"

@@ -1,6 +1,32 @@
 {
+    "S_JUST_LISTEN": {
+        "sec": "3.0",
+        "fileName": "",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_HELLO "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        } 
+    },
     "S_HELLO ": {
-        "sec": "6",
+        "sec": "3.0",
         "fileName": "Hello 1.wav",
         "reb_state": false,
         "qq_state": false,
@@ -89,7 +115,12 @@
         "say_again": {
             "fileName": "",
             "next_state": "S_INTRO "
-        }
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_NP "
+        } 
+        
     },
     "S_PITCH ": {
         "sec": "6",
@@ -101,10 +132,6 @@
             "next_state": "disp_A "
         },
         "not_decision_maker ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
             "fileName": "",
             "next_state": "disp_DNQ "
         },
@@ -167,10 +194,14 @@
         "say_again": {
             "fileName": "",
             "next_state": "S_PITCH "
-        }
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        } 
     },
     "S_TRANSFER ": {
-        "sec": "5",
+        "sec": "3",
         "fileName": "Transfer 1.wav",
         "reb_state": false,
         "qq_state": false,
@@ -214,14 +245,10 @@
             "fileName": "",
             "next_state": "disp_NI "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
             "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+        } 
     },
     "S_BUSY ": {
         "sec": "3",
@@ -284,14 +311,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_PREV_STATE ": {
         "sec": "5",
@@ -328,14 +351,10 @@
             "fileName": "",
             "next_state": "S_PREV_STATE "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_NI": {
         "sec": "5",
@@ -398,14 +417,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_ALREADY": {
         "sec": "5",
@@ -464,14 +479,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_WHY": {
         "sec": "5",
@@ -534,14 +545,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_GET_INFO": {
         "sec": "5",
@@ -612,10 +619,10 @@
             "fileName": "",
             "next_state": "S_Location "
         },
-        "DNQ ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_EMAIL": {
         "sec": "5",
@@ -682,10 +689,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "DNQ ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_ARE_YOU_BOT": {
         "sec": "5",
@@ -748,14 +755,10 @@
             "fileName": "",
             "next_state": "disp_DNC "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_Location": {
         "sec": "3",
@@ -818,14 +821,10 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_AGE_QUESTION ": {
         "sec": "6",
@@ -900,10 +899,10 @@
             "fileName": "",
             "next_state": "S_AGE_QUESTION "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     },
     "S_WHY_INFO": {
         "sec": "3",
@@ -965,7 +964,11 @@
         "are_you_bot ": {
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
-        }
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_NP "
+        } 
     },
     "S_TRANSFER_REQ": {
         "sec": "3",
@@ -1024,13 +1027,9 @@
             "fileName": "",
             "next_state": "S_ARE_YOU_BOT "
         },
-        "not_decision_maker ": {
+        "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
-        },
-        "DNQ ": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        }
+            "next_state": "disp_NP "
+        } 
     }
 }
