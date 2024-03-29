@@ -1,6 +1,6 @@
 {
     "S_JUST_LISTEN": {
-        "sec": "3.0",
+        "sec": "4.0",
         "fileName": "",
         "reb_state": false,
         "qq_state": false,
@@ -30,7 +30,7 @@
         }
     },
     "S_HELLO ": {
-        "sec": "3.0",
+        "sec": "4.0",
         "fileName": "Hello 1.wav",
         "reb_state": false,
         "qq_state": false,
@@ -229,10 +229,6 @@
             "fileName": "",
             "next_state": "disp_DNC "
         },
-        "BUSY ": {
-            "fileName": "",
-            "next_state": "disp_B "
-        },
         "affirmation ": {
             "fileName": "",
             "next_state": "disp_XFER "
@@ -254,6 +250,10 @@
             "next_state": "disp_NI "
         },
         "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "DNQ ": {
             "fileName": "",
             "next_state": "disp_DNQ "
         }
@@ -836,7 +836,7 @@
     },
     "S_AGE_QUESTION ": {
         "sec": "6",
-        "fileName": "Age.wav",
+        "fileName": "Age",
         "reb_state": false,
         "qq_state": true,
         "answering_machine ": {
