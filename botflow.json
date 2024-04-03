@@ -1,6 +1,7 @@
 {
+    "initial_state": "S_JUST_LISTEN",
     "S_JUST_LISTEN": {
-        "sec": "4.0",
+        "sec": "3.0",
         "fileName": "",
         "reb_state": false,
         "qq_state": false,
@@ -131,7 +132,7 @@
 
     },
     "S_PITCH ": {
-        "sec": "6",
+        "sec": "3",
         "fileName": "Pitch & Reason of Call.wav",
         "reb_state": false,
         "qq_state": false,

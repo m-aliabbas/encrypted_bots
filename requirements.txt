@@ -31,3 +31,4 @@ websocket-client==1.7.0
 websockets==12.0
 wsproto==1.2.0
 nltk
+word2number
