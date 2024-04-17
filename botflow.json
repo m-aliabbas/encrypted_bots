@@ -28,10 +28,14 @@
         "are_you_bot ": {
             "fileName": "",
             "next_state": "disp_A "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
         }
     },
-    "S_HELLO ": {
-        "sec": "4.0",
+    "S_HELLO": {
+        "sec": "6.0",
         "fileName": "Hello 1.wav",
         "reb_state": false,
         "qq_state": false,
@@ -58,9 +62,13 @@
         "are_you_bot ": {
             "fileName": "",
             "next_state": "disp_A "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
         }
     },
-    "S_INTRO ": {
+    "S_INTRO": {
         "sec": "6",
         "fileName": "Intro 1.wav",
         "reb_state": false,
@@ -127,11 +135,11 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
 
     },
-    "S_PITCH ": {
+    "S_PITCH": {
         "sec": "3",
         "fileName": "Pitch & Reason of Call.wav",
         "reb_state": false,
@@ -206,10 +214,10 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_DNQ "
+            "next_state": "disp_LBR "
         }
     },
-    "S_TRANSFER ": {
+    "S_TRANSFER": {
         "sec": "3",
         "fileName": "Transfer 1.wav",
         "reb_state": false,
@@ -242,24 +250,12 @@
             "fileName": "",
             "next_state": "disp_XFER "
         },
-        "Not_Interested ": {
-            "fileName": "",
-            "next_state": "disp_NI "
-        },
-        "decline ": {
-            "fileName": "",
-            "next_state": "disp_NI "
-        },
-        "language_barrier": {
-            "fileName": "",
-            "next_state": "disp_DNQ "
-        },
         "DNQ ": {
             "fileName": "",
             "next_state": "disp_DNQ "
         }
     },
-    "S_BUSY ": {
+    "S_BUSY": {
         "sec": "3",
         "fileName": "Busy.wav",
         "reb_state": true,
@@ -322,16 +318,16 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
-    "S_PREV_STATE ": {
+    "S_PREV_STATE": {
         "sec": "5",
         "fileName": "",
         "reb_state": true,
         "qq_state": false
     },
-    "S_ARE_YOU_THERE ": {
+    "S_ARE_YOU_THERE": {
         "sec": "3",
         "fileName": "are_you_there.wav",
         "reb_state": false,
@@ -362,7 +358,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_NI": {
@@ -428,7 +424,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_ALREADY": {
@@ -490,7 +486,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_WHY": {
@@ -556,7 +552,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_GET_INFO": {
@@ -630,7 +626,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_EMAIL": {
@@ -700,7 +696,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_ARE_YOU_BOT": {
@@ -832,10 +828,10 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
-    "S_AGE_QUESTION ": {
+    "S_AGE_QUESTION": {
         "sec": "6",
         "fileName": "Age",
         "reb_state": false,
@@ -910,7 +906,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_WHY_INFO": {
@@ -976,7 +972,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     },
     "S_TRANSFER_REQ": {
@@ -1038,7 +1034,7 @@
         },
         "language_barrier": {
             "fileName": "",
-            "next_state": "disp_NP "
+            "next_state": "disp_LBR "
         }
     }
 }
